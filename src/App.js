@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 import ObjectHandleState from './component/ObjectHandleState';
+import UpdaterFunction from './component/UpdaterFunction';
+import SearchBar from './component/Searchbar';
 
 
 
@@ -8,11 +10,10 @@ function App() {
   return (
     <div className="">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-Custom things        </p>
-<ObjectHandleState />
-    
+ 
+ <SearchBar />
+{/* <ObjectHandleState /> */}
+    {/* <UpdaterFunction/> */}
       </header>
     </div>
   );

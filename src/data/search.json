@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Harry",
+    "email": "harry@example.com",
+    "age": 25,
+    "city": "Delhi"
+  },
+  {
+    "id": 2,
+    "name": "Harish",
+    "email": "harish@example.com",
+    "age": 28,
+    "city": "Mumbai"
+  },
+  {
+    "id": 3,
+    "name": "Harman",
+    "email": "harman@example.com",
+    "age": 26,
+    "city": "Chandigarh"
+  },
+  {
+    "id": 4,
+    "name": "Aarav",
+    "email": "aarav@example.com",
+    "age": 27,
+    "city": "Pune"
+  },
+  {
+    "id": 5,
+    "name": "Aarya",
+    "email": "aarya@example.com",
+    "age": 24,
+    "city": "Bangalore"
+  },
+  {
+    "id": 6,
+    "name": "Anaya",
+    "email": "anaya@example.com",
+    "age": 23,
+    "city": "Hyderabad"
+  },
+  {
+    "id": 7,
+    "name": "Bharat",
+    "email": "bharat@example.com",
+    "age": 30,
+    "city": "Ahmedabad"
+  },
+  {
+    "id": 8,
+    "name": "Bhavna",
+    "email": "bhavna@example.com",
+    "age": 25,
+    "city": "Jaipur"
+  },
+  {
+    "id": 9,
+    "name": "Chirag",
+    "email": "chirag@example.com",
+    "age": 28,
+    "city": "Surat"
+  },
+  {
+    "id": 10,
+    "name": "Charvi",
+    "email": "charvi@example.com",
+    "age": 24,
+    "city": "Indore"
+  }
+]
